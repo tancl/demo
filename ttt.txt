@@ -1,8 +1,9 @@
 Main()
 {
 print "hello word"
+
 }
-metho()
+method()
 {
 print "my name is tcl"
 }
